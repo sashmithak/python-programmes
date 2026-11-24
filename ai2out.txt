@@ -1,0 +1,10 @@
+
+Customer 1
+Enter customer name: sash
+Enter units consumed: 68
+Customer Name : sash
+Units         : 68.0
+Bill Amount   : Rs. 102.0
+
+Customer 2
+Enter customer name: 
